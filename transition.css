@@ -1,0 +1,99 @@
+html, body{
+    margin: 0%;
+    padding: 0%;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+/* Nav Start */
+
+.navbar{
+    color: #ffffff;
+}
+
+li{
+    display: inline-block;
+    margin: 10px 10px;
+    padding: 10px 10px;
+}
+
+li:hover{
+    text-shadow: 2px 2px 4px #ffffff;
+    color: #000000;
+    text-decoration-line: underline;
+    background-color: #ffffff;
+    border-radius: 25px;
+    opacity: 0.9;
+    transition: cubic-bezier(0.175, 0.885, 0.32, 1.275) 1s;
+}
+
+ul{
+    float: right;
+    padding-right: 30px;
+}
+/*Nav End*/
+
+/* Overlay Start*/
+.content{
+    background-color: #000000;
+    opacity: 0.6;
+    position: absolute;
+    height: 100vh;
+    width: 100%;
+    z-index: -1;
+}
+
+
+h1{
+    color:white;
+    text-transform: capitalize;
+    text-align: center;
+    font-size: 3em;
+    padding-top: 30vh;
+    padding-bottom: 0px;
+    margin-bottom: 0px;
+  }
+
+h1:hover{
+    transition: cubic-bezier(0.175, 0.885, 0.32, 1.275) 1s;
+    font-size: 4em;
+    text-shadow: 4px 4px 8px #ffffff;
+    translate: 
+}
+
+.full-overlay h2{
+    color: #ffffff;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.full-overlay h2:hover{
+    color: #ffffff;
+    font-size: 2em;
+    transition: cubic-bezier(0.175, 0.885, 0.32, 1.275) 1s;
+    text-shadow: 2px 2px 4px #ffffff;
+}
+
+.full-overlay{
+    position: relative;
+    background:url("https://images.pexels.com/photos/247791/pexels-photo-247791.png?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260") no-repeat;
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    height:100vh;
+    z-index: 1;
+}
+
+/*Overlay End*/
+
+/*Portfolio Start*/
+.portfolio{
+
+}
+
+.portfolio h2{
+    color: #222f3e;
+    text-align: center;
+    padding-top: 40px;
+    font-size: 2em;
+       
+}
+/*Portfolio End*/  
