@@ -80,7 +80,7 @@ $(function() {
 
     // typejs
     $('.header .caption h3').typed({
-        strings: ["Web Developer", "C++ Developer", "Python Developer","Tech Enthusiast"],
+        strings: ["Web Developer", "Python Developer", "Gamer", "Tech Enthusiast"],
         loop: true,
         startDelay: 1000,
         backDelay: 1000,
