@@ -1,0 +1,10 @@
+Below are some reasons why I would like you to consider me.
+I know I dont have the right industry experience but I have developed significant fullstack projects.
+While building them I have followed various industry practices talks to build reusable, efficient, asynchronous and well commented code.
+I also have deep understanding of the javascript concurrency model based on the event loop.
+I am highly obsessed with constantly improving my code and design quality.
+I have a background in cybersecurity but I am a developer at heart and like to work on every stage of a application development. 
+I have experience in API development and frontend frameworks mainly Vue.js and Angular.
+I really enjoy this and like to proactively contribute.
+
+Would like to hear from you.
